@@ -3,9 +3,9 @@
  SRT 实验程序
 
  实验描述
-本仓库包含两个用PsychoPy v2023.2.3编写的心理学实验：
+本仓库包含用PsychoPy v2023.2.3编写的心理学实验：
 1. 序列反应时任务 (SRT)
-2. 线索注意任务 (LAT)
+
 
 运行方法
 1. 确保已安装 [PsychoPy](https://www.psychopy.org/download.html) (推荐使用v2023.2.3或更高版本)。
